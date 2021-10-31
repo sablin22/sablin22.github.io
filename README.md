@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @Bosco-Tang, I am a personal developer in Tianjin China!
-- 👀 I’m interested in web develop, html is study by myself!
-- 😒 I am freedom, I think tiktok is bad for everyone, cause that will let you give study up.
-- 🌱 I’m learning English by duolingo now, and I also study python at runoob.com.
-- 💞️ I study at tanggu no.2 middle school.
-- 📫 You can talk with me at 13920192238@139.com.
